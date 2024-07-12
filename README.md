@@ -1,6 +1,7 @@
 # Day3-Practice-RegistrartionApp
 
-Created this Registration page to practice the concepts of components and Forms in Angular.<br></br>
+# Created this Registration page to practice the concepts of components and Forms in Angular.<br></br>
+
 # This Registration page has the following fields:<br></br>
       First Name;
       Last Name;
